@@ -12,7 +12,7 @@
         </p>
 
         <h1>
-            Desarrollo backend con Laravel
+            Desarrollo backend con Laravel, proyecto de Yoel
         </h1>
 
         <p class="hero__description">
